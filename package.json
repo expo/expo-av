@@ -32,10 +32,12 @@
   "license": "MIT",
   "homepage": "https://docs.expo.dev/versions/latest/sdk/av/",
   "devDependencies": {
-    "expo-module-scripts": "^5.0.7"
+    "@types/react": "~19.1.1",
+    "expo-module-scripts": "^5.0.7",
+    "expo": "^54.0.25",
+    "react-native": "0.82.1"
   },
   "peerDependencies": {
-    "@types/react": "*",
     "expo": "*",
     "react": "*",
     "react-native": "*",
